@@ -1,3 +1,10 @@
 # near_classes
 
-we will learn JS, Rust and blockchain concepts.
+## Read me is awesome
+
+```
+    Have you tried
+    this tag
+```
+
+<img src="./assets/pic2.jpg">
