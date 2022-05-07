@@ -11,10 +11,15 @@
   "age": 25
 }
 ```
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 [Example of link](https://www.example.com)
 
-- **sample**
-* >markdown is really fast
+- **Writing in bold**
+* >This is a block
 
 ![alt text](./assets/pic2.jpg)
 
@@ -22,5 +27,12 @@
 
 <hr />
 
+Table
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
-## *some random changes*
+
+
+## *wrting in Italics*
