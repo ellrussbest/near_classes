@@ -21,6 +21,8 @@
 - **Writing in bold**
 * >This is a block
 
+## You can also write an inline code like this `sudo apt get install git` and it will work just perfectly
+
 ![alt text](./assets/pic2.jpg)
 
 <img width="500px" src="./assets/pic2.jpg">
@@ -32,7 +34,6 @@ Table
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
-
 
 
 ## *wrting in Italics*
